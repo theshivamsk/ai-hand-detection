@@ -24,4 +24,5 @@ Probably this will work with the most browsers, but here is a list which browser
 |     Firefox    |     ✅     |
 |     Chrome     |     ✅     |
 
+![image](https://github.com/theshivamsk/ai-hand-detection/assets/165746109/18fd83a9-50bf-47c4-acec-2e9bc9c7c737)
 
